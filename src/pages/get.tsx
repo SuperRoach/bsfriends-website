@@ -36,7 +36,7 @@ export default function Get() {
                   <li>You&rsquo;ll be redirected to the App Store</li>
                   <li>Tap &ldquo;Get&rdquo; to download and install</li>
                   <li>Open the app and login to your bigscreen account</li>
-                  <li>That's it!</li>
+                  <li>That&rsquo;s it!</li>
                 </ol>
               </div>
               
@@ -49,7 +49,7 @@ export default function Get() {
                   <li>You&rsquo;ll be redirected to Google Play Store</li>
                   <li>Tap &ldquo;Install&rdquo; to download and install</li>
                   <li>Open the app and login to your bigscreen account</li>
-                  <li>You're done!</li>
+                  <li>You&rsquo;re done!</li>
                 </ol>
               </div>
             </div>
@@ -76,7 +76,7 @@ export default function Get() {
                     Get Features First
                   </h3>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Access new features and improvements weeks before they're released to the public. Be the first to experience what's coming next!
+                    Access new features and improvements weeks before they&rsquo;re released to the public. Be the first to experience what&rsquo;s coming next!
                   </p>
                 </div>
 
