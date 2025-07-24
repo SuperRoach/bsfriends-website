@@ -60,7 +60,7 @@ export default function Get() {
             <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 border border-blue-200 dark:border-blue-800 rounded-xl p-8">
               <div className="text-center mb-6">
                 <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-                  Join Our iOS Beta Testing Program
+                  Join the beta testing program
                 </h2>
                 <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
                   Want to help shape the future of Bigscreen Friends? Join our beta testing program!
