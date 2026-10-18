@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bcrossappdev.bigscreenfriends",
+      "sha256_cert_fingerprints": [
+        "35:3E:6E:C3:4D:FF:B6:FA:D8:CB:F4:0C:65:E0:D5:46:AC:04:EA:BB:D8:01:D5:6B:9B:A5:CF:0A:A6:E1:25:46"
+      ]
+    }
+  }
+]
